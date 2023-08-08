@@ -18,8 +18,9 @@ body {
     background-color: rgb(114, 114, 224);
     color: white;
 }
-.h2 secondheading {
-      font-size: 20px;
+.heading {
+      font-size: 35Px;
+    
 }
 .extra {
     padding: 200px;
