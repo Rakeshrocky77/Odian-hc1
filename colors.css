@@ -1,5 +1,7 @@
 body {
-    border-radius: 200px;
+    border: 200px;
+    column-gap: normal;
+    position: fixed;
  }
  .head {
     padding:200px;
@@ -15,6 +17,9 @@ body {
   
     background-color: rgb(114, 114, 224);
     color: white;
+}
+.h2 secondheading {
+      font-size: 20px;
 }
 .extra {
     padding: 200px;
