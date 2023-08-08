@@ -1,9 +1,9 @@
 body {
-    border: 200px;
-    column-gap: normal;
-    position: fixed;
+   border-block-end-width: 10px; 
  }
+
  .head {
+    position: left;
     padding:200px;
     background-color:black;
     color: white;
@@ -18,10 +18,6 @@ body {
     background-color: rgb(114, 114, 224);
     color: white;
 }
-.heading {
-      font-size: 35Px;
-    
-}
 .extra {
     padding: 200px;
     background-color: gray;
@@ -29,10 +25,26 @@ body {
 .bottom {
     padding: 50px;
     background-color: black;
-    color: gray;
+    color: darkgray;
 
 }
 .threed {
     padding: 150px;
     background-color: white;
+}
+.start {
+    position: 10px 10px 10px 10px;
+}
+.heading {
+    font-size: 40px;
+    padding: 0px 0px 0px 150px;
+    background-color: lightgrey;
+  
+}
+div .list {
+    background-color: lightgrey;
+  width: 300px;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
 }
