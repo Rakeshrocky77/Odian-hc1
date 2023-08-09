@@ -1,5 +1,9 @@
 body {
-   border-block-end-width: 10px; 
+    background-color: white;
+    width: 1000px;
+    border: 5px solid blue;
+    padding: 20px;
+    margin: 20px; 
  }
 
  .head {
@@ -7,6 +11,9 @@ body {
     padding:200px;
     background-color:black;
     color: white;
+}
+.a {
+    align-content: end;
 }
 .header {
     padding-left: 2px;
