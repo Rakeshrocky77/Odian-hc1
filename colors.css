@@ -12,8 +12,8 @@ body {
     background-color:black;
     color: white;
 }
-div.a {
-    text-align: end;
+a {
+    position: end;
     color: white;
 }
 .header {
@@ -58,4 +58,11 @@ div .list {
 }
 .listone {
     padding: 3px;
+}
+.data {
+  background-color: blue;
+  width: 8px 8px 8px 8px;
+  border: 1px solid blue;
+  padding: 20px;
+  margin: 20px;
 }
