@@ -10,23 +10,34 @@ body {
     position: left;
     padding:30px;
     background-color:black;
-    color: white;
+    color: white; 
 }
-h1 {
-    padding:10px ;
+h5 {
+    padding: 5px;
+    margin: 2px;
+    text-align: center;
+    color: blue;
+    font-size: 25px;
 }
 a {
-    position: end;
+    padding: 40px;
+    margin: 30px;
     color: white;
+}
+.inside {
+    border: 10px solid gray;
+}
+.classone {
+    font-size: 25px;
 }
 .header {
     padding-left: 2px;
     margin: auto;
     position: absolute; 
 }
-.head > button {
+p> button {
   
-    background-color: rgb(114, 114, 224);
+    background-color: rgb(0, 60, 255);
     color: white;
 
 }
