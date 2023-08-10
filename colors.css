@@ -8,9 +8,12 @@ body {
 
  .head {
     position: left;
-    padding:200px;
+    padding:30px;
     background-color:black;
     color: white;
+}
+h1 {
+    padding:10px ;
 }
 a {
     position: end;
@@ -25,19 +28,20 @@ a {
   
     background-color: rgb(114, 114, 224);
     color: white;
+
 }
 .extra {
-    padding: 200px;
+    padding: 30px;
     background-color: gray;
 }
 .bottom {
-    padding: 50px;
+    padding: 20px;
     background-color: black;
     color: darkgray;
 
 }
 .threed {
-    padding: 150px;
+    padding: 30px;
     background-color: white;
 }
 .start {
