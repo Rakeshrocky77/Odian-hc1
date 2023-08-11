@@ -45,6 +45,7 @@ p.box {
     height: 100px;
     width: 100px;
     border-radius: 6px;
+    text-align: center;
 
 }
 .listtwo {
@@ -53,7 +54,7 @@ p.box {
     width: 100px;
     margin-left: 200px;
     border-radius: 6px;
-    vertical-align: left;
+    text-align: center;
 }
 .listthree {
     border: 2px solid blue;
@@ -61,6 +62,7 @@ p.box {
     width: 100px;
     margin-left: 400px;
     border-radius: 6px;
+    text-align: center;
 }
 .listfour {
     border: 2px solid blue;
@@ -69,6 +71,7 @@ p.box {
     text-align: center;
     margin-left: 600px;
     border-radius: 6px;
+    text-align: center;
 }
 .classone {
     font-size: 25px;
@@ -86,8 +89,13 @@ p> button {
 
 }
 .extra {
-    padding: 30px;
-    background-color: gray;
+    padding: 50px;
+    background-color: lightgray;
+    text-align: center;
+    font-size: 30px;
+}
+div > strong {
+    padding-left: 300px;
 }
 .bottom {
     padding: 20px;
