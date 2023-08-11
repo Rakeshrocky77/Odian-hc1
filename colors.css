@@ -35,11 +35,40 @@ p.box {
 }
 .second {
     background-color: white;
-    font-size: 20px;
-    padding: 0px 0px 0px 0px;
-    
+    padd
 }
-    
+.heading {
+    margin: 0px 0px 0px 250px;
+} 
+.listone {
+    border: 2px solid blue;
+    height: 100px;
+    width: 100px;
+    border-radius: 6px;
+
+}
+.listtwo {
+    border: 2px solid blue;
+    height: 100px;
+    width: 100px;
+    margin-left: 200px;
+    border-radius: 6px;
+    vertical-align: left;
+}
+.listthree {
+    border: 2px solid blue;
+    height: 100px;
+    width: 100px;
+    margin-left: 400px;
+    border-radius: 6px;
+}
+.listfour {
+    border: 2px solid blue;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    margin-left: 600px;
+    border-radius: 6px;
 }
 .classone {
     font-size: 25px;
@@ -53,6 +82,7 @@ p> button {
   
     background-color: rgb(0, 60, 255);
     color: white;
+    border-radius: 4px;
 
 }
 .extra {
