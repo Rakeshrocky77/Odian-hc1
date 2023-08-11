@@ -97,26 +97,26 @@ p> button {
 div > strong {
     padding-left: 300px;
 }
-.bottom {
-    padding: 20px;
-    background-color: black;
-    color: darkgray;
 
 }
 .threed {
     padding: 30px;
     background-color: white;
 }
-.start {
-    position: 10px 10px 10px 10px;
-}
-.listone {
-    padding: 3px;
-}
 .data {
-  background-color: blue;
-  width: 8px 8px 8px 8px;
-  border: 1px solid blue;
-  padding: 20px;
-  margin: 20px;
+    background-color: lightblue;
+    width: 2px 2px 2px 2px;
+    border: 1px solid lightblue;
+    padding: 30px;
+    margin-left: 70px;
+  }
+  .datas {
+     background-color: blue;
+  }
+  .bottom {
+    padding: 20px;
+    background-color: black;
+    color: darkgray;
+    text-align: center;
 }
+
