@@ -33,6 +33,14 @@ p.box {
     margin: 20px 50px 30px 400px;
     align-items:  center;
 }
+.second {
+    background-color: white;
+    font-size: 20px;
+    padding: 0px 0px 0px 0px;
+    
+}
+    
+}
 .classone {
     font-size: 25px;
 }
@@ -63,19 +71,6 @@ p> button {
 }
 .start {
     position: 10px 10px 10px 10px;
-}
-.heading {
-    font-size: 40px;
-    padding: 0px 0px 0px 150px;
-    background-color: lightgrey;
-  
-}
-div .list {
-  background-color: white;
-  width: 150px;
-  border: 10px solid blue;
-  padding: 20px;
-  margin: 20px;
 }
 .listone {
     padding: 3px;
