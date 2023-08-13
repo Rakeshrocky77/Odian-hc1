@@ -4,7 +4,7 @@
 }
 .Header{
     color: #e5e7e8;
-    background-color: rgb(50,50,131);
+    background-color: #1f2837;
 }
   
 .headertop {
@@ -32,7 +32,13 @@ a {
     font-size: 18px;
     color: #e5e7e8;
 }
+.headerbody {
+    display: flex;
+}
 
+img {
+    max-height: 250px;
+}
 
 
 
