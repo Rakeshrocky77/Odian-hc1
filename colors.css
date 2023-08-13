@@ -1,121 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;1,100&display=swap');
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
 body {
-    background-color: black;
-    width: 850px;
-    border: 10px solid skyblue;
-    padding: 0px;
-    margin: 0px; 
- }
-
- .head {
-    position: left;
-    padding:30px;
-    background-color:black;
-    color: white; 
+    font-family: 'Roboto', sans-serif;
 }
-h5 {
-    padding: 5px;
-    margin: 2px;
-    text-align: center;
-    color: blue;
-    font-size: 25px;
-}
-a {
-    padding: 40px;
-    margin: 30px;
-    color: white;
-}
-.inside {
-    border: 10px solid gray;
-}
-p.box {
-    border: 3px solid gray;
-    padding: 20px 50px 30px 50px;
-    margin: 20px 50px 30px 400px;
-    align-items:  center;
-}
-.second {
-    background-color: white;
-    padd
-}
-.heading {
-    margin: 0px 0px 0px 250px;
-} 
-.listone {
-    border: 2px solid blue;
-    height: 100px;
-    width: 100px;
-    border-radius: 6px;
-    text-align: center;
-
-}
-.listtwo {
-    border: 2px solid blue;
-    height: 100px;
-    width: 100px;
-    margin-left: 200px;
-    border-radius: 6px;
-    text-align: center;
-}
-.listthree {
-    border: 2px solid blue;
-    height: 100px;
-    width: 100px;
-    margin-left: 400px;
-    border-radius: 6px;
-    text-align: center;
-}
-.listfour {
-    border: 2px solid blue;
-    height: 100px;
-    width: 100px;
-    text-align: center;
-    margin-left: 600px;
-    border-radius: 6px;
-    text-align: center;
-}
-.classone {
-    font-size: 25px;
-}
-.header {
-    padding-left: 2px;
-    margin: auto;
-    position: absolute; 
-}
-p> button {
   
-    background-color: rgb(0, 60, 255);
-    color: white;
-    border-radius: 4px;
-
-}
-.extra {
-    padding: 50px;
-    background-color: lightgray;
-    text-align: center;
-    font-size: 30px;
-}
-div > strong {
-    padding-left: 300px;
+header {
+    background-color: #1f2937;
+    color: #f9faf8;
+    width: 100%;
+    height: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
 }
 
+nav {
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    display: inline-block;
 }
-.threed {
-    padding: 30px;
-    background-color: white;
+
+
+ a {
+    justify-content: space-between;
+    color: #f9faf8;
+    text-decoration: none;
+    
 }
-.data {
-    background-color: lightblue;
-    width: 2px 2px 2px 2px;
-    border: 1px solid lightblue;
-    padding: 30px;
-    margin-left: 70px;
-  }
-  .datas {
-     background-color: blue;
-  }
-  .bottom {
-    padding: 20px;
-    background-color: black;
-    color: darkgray;
-    text-align: center;
-}
+
+
+
