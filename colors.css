@@ -2,9 +2,9 @@
     padding: 0;
     margin: 0;
 }
-.Header{
+.Header {
     color: #e5e7e8;
-    background-color: #1f2837;
+    background-color: #1F2837;
 }
   
 .headertop {
@@ -30,9 +30,10 @@ a {
 
 .titlesub {
     font-size: 18px;
-    color: #e5e7e8;
+    color: #E9FAF8;
 }
 .headerbody {
+    background-color: #1F2837;
     display: flex;
 }
 
